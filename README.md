@@ -1,4 +1,4 @@
-```markdown
+markdown
 <div align="center">
   <img src="https://github.com/InomjonQurbonov/My-special-voice-assistent/blob/main/assistant.png" width="150" alt="Anime Assistant Icon"/>
 
