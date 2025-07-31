@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ai_model/assistant.png" width="150" alt="Anime Assistant Icon"/>
+  <img src="https://github.com/InomjonQurbonov/My-special-voice-assistent/blob/main/ai_model/chibi_avatar.gif" width="150" alt="Anime Assistant Icon"/>
 
   # 🌸 My Special Voice Assistant
 
