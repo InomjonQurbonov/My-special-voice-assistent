@@ -1,5 +1,3 @@
-```markdown
-
 <div align="center">
   <img src="ai_model/assistant.png" width="150" alt="Anime Assistant Icon"/>
 
